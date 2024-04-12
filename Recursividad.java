@@ -1,4 +1,4 @@
-package paquetote.Recursividad;
+package Recursividad;
 
 public class Recursividad {
     public static void main(String[] args) {
